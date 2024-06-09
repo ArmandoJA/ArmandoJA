@@ -2,9 +2,6 @@
 
 I am from **Cuba**
 
-I was born in the month of _June_ making me a **Gemini**
-
-I am currently in the **_11th grade_** and I wish to study **_Computer Science_** in College
 <!--
 **ArmandoJA/ArmandoJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
